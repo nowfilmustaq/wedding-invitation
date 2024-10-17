@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.invitation {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #444;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50; /* GitHub green */
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+p {
+    line-height: 1.5;
+}
