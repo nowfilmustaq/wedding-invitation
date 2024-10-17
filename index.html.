@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedding Invitation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="invitation">
+        <h1>You're Invited!</h1>
+        <h2>[Nowfil Mustaq] & [Sabjana afrin]</h2>
+        <p>Date: [01-08-2025]</p>
+        <p>Time: [Wedding Time]</p>
+        <p>Location: [PODAKKUDI]</p>
+        <h3>Join us for a day of love!</h3>
+        <p><a href="mailto:your-email@example.com">RSVP Here</a></p>
+    </div>
+</body>
+</html>
